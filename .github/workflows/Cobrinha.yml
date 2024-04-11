@@ -2,7 +2,6 @@
 name: Snake Game
 
 
-
 # Controlador do tempo que será feita a atualização dos arquivos.
 on:
   schedule:
