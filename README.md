@@ -2,7 +2,7 @@
 
 👨‍💻 Estudante de Ciência da Computação do Instituo Federal Goiano.
 
-🌱 Atualmente aprendendo e aprimorando minhas habilidades em linguagens de programação como C#, JavaScript, HTML, CSS e Python.
+🌱 Atualmente aprendendo e aprimorando minhas habilidades em linguagens de programação como  JavaScript, HTML, CSS e Python.
 
 🚀 Buscando oportunidades para colaborar em projetos interessantes e desafiadores.
 
