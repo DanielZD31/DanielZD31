@@ -1,4 +1,4 @@
-### Olá, eu sou Daniel Alves de Sousa
+### Olá, eu sou Daniel Alves 
 
 👨‍💻 Estudante de Ciência da Computação do Instituo Federal Goiano.
 
