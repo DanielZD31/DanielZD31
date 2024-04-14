@@ -8,7 +8,7 @@
 
 💡 Apaixonado por resolver problemas e aprender coisas novas.
 
-📫 Como me alcançar: danielalvesdesouza77@gmail.com
+📫 Como me alcançar: danielalds2003@gmail.com
 
 <div>
   <a href="https://beacons.ai/DanielZD31">
@@ -30,7 +30,7 @@
 
  <div> 
   <a href="https://www.instagram.com/dani_alds/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danielalvesdesouza77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danielalds2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
 
