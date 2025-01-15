@@ -2,7 +2,7 @@
 
 💻 **Estudante de Ciência da Computação** no Instituto Federal Goiano, com interesse em desenvolvimento de software e soluções tecnológicas inovadoras.
 
-🌱 **Atualmente** aprimorando minhas habilidades em linguagens de programação como **JavaScript**, **HTML**, **CSS** e **Python**, com foco em resolver problemas e implementar soluções eficientes.
+🌱 **Atualmente** aprimorando minhas habilidades em linguagens de programação como **JavaScript**, **HTML**, **CSS**, **Python**, **C**, **C++**, **MySQL**, **C#**, **React**, **TypeScript** e **Angular**, com foco em resolver problemas e implementar soluções eficientes.
 
 🚀 **Buscando** oportunidades para colaborar em projetos desafiadores e contribuir com minha criatividade e habilidades técnicas.
 
@@ -15,10 +15,19 @@
 ### 🛠️ Habilidades
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  <img align="center" alt="Daniel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Daniel-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Daniel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Daniel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Daniel-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Daniel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+
 </div>
 
 ---
