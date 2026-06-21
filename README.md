@@ -1,26 +1,27 @@
-### Olá, sou Daniel Alves 👋
+---
+### Olá, eu sou Daniel Alves 👋
 
-💻 **Estudante de Ciência da Computação** no Instituto Federal Goiano, com interesse em desenvolvimento de software e soluções tecnológicas inovadoras.
+💻 **Estudante de Ciência da Computação** no Instituto Federal Goiano, com interesse em desenvolvimento de software, visão computacional e soluções tecnológicas inovadoras.
 
-🌱 **Atualmente** aprimorando minhas habilidades em linguagens de programação como **JavaScript**, **HTML**, **CSS**, **Python**, **C**, **C++**, **MySQL**, **C#**, **React**, **TypeScript** e **Angular**, com foco em resolver problemas e implementar soluções eficientes.
+🚀 Tenho experiência com desenvolvimento web, programação orientada a objetos, banco de dados e também com projetos envolvendo Inteligência Artificial e visão computacional, utilizando ferramentas como Roboflow para treinamento, organização e análise de dados em modelos de IA.
 
-🚀 **Buscando** oportunidades para colaborar em projetos desafiadores e contribuir com minha criatividade e habilidades técnicas.
+🌱 Atualmente venho aprimorando minhas habilidades em tecnologias como Python, Django, JavaScript, TypeScript, React, Angular, C, C++, C#, HTML, CSS e MySQL, sempre buscando evoluir na construção de soluções práticas e eficientes.
 
-🧠 **Apaixonado** por aprender novas tecnologias, melhorar minhas habilidades em programação e explorar novas formas de solucionar problemas complexos.
+🧠 Sou apaixonado por aprender novas tecnologias, desenvolver projetos que resolvam problemas reais e explorar diferentes áreas da tecnologia, especialmente desenvolvimento de software e IA.
 
-📬 **Como me encontrar:** [danielalds2003@gmail.com](mailto:danielalds2003@gmail.com)
-
+📬 **Contato:** [danielalds2003@gmail.com](mailto:danielalds2003@gmail.com)
 ---
 
 ### 🛠️ Habilidades
 
 <div style="display: inline_block"><br>
- 
+
   <img align="center" alt="Daniel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Daniel-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Daniel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Daniel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daniel-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,6 +32,7 @@
 </div>
 
 ---
+
 
 ### 📈 Minhas Estatísticas
 
